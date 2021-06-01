@@ -3,4 +3,4 @@ Flask==0.12.2
 gunicorn
 psycopg2
 requests
-urllib3==1.12
+urllib3==1.26.5
